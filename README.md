@@ -11,4 +11,6 @@ Transmission Line Calculator: Find values of voltage standing wave ratio (VSWR),
 | 2.0 | 0.33 | 9.5 dB | Poor impedance matching |
 | ∞ | 1 | 0 dB | Open circuit or short circuit |
 
+![EE 140 Homework 10 Chapter 8 Problem 5](https://cdn.discordapp.com/attachments/758422382234042438/915374413258555402/IMG_0085.png)
+
 ![Transmission Line Calculator](https://cdn.discordapp.com/attachments/758422382234042438/915189809243377754/transmission-line-calculator.png)
