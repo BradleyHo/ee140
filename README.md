@@ -1,4 +1,4 @@
-# EE 140
+# EE 140 - Principles of Electromagnetic Fields & Waves
 Programs that I created that are useful for EE 140 at SJSU.
 
 ## Transmission Line Calculator
@@ -19,5 +19,17 @@ I am aware of the ranges of VSWR, ρ, and RL. I opened an [issue](https://github
 ![Transmission Line Calculator](https://cdn.discordapp.com/attachments/758422382234042438/915189809243377754/transmission-line-calculator.png)
 ---
 ## Final Examination
+
+* Definite Integrals
+* Magnetostatics
+* Biot–Savart Law
+* Boundary Conditions
+* Faraday's Law
+* Maxwell's Equations
+* Plane Waves & Polarization
+* Lossy Media
+* Normal Incidence
+* Transmission Lines
+
 ![Formula Sheet 1](https://cdn.discordapp.com/attachments/822377994978459729/915524286482100276/formula-sheet-1.JPG)
 ![Formula Sheet 2](https://cdn.discordapp.com/attachments/822377994978459729/915524286930886706/formula-sheet-2.JPG)
