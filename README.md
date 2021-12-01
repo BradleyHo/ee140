@@ -20,6 +20,7 @@ I am aware of the ranges of VSWR, ρ, and RL. I opened an [issue](https://github
 ---
 ## Final Examination
 
+Fall 2021 Semester Topics:
 * Definite Integrals
 * Magnetostatics
 * Biot–Savart Law
