@@ -1,7 +1,9 @@
-# ee140
+# EE 140
 Programs that I created that are useful for EE 140 at SJSU.
 
 Transmission Line Calculator: Find values of voltage standing wave ratio (VSWR), reflection coefficient (ρ), return loss (RL). Extreme cases were considered. Refer to the relationship table below. This CLI program is written in Python. A GUI version is being considered for Windows and GNU/Linux with more implemented features if time permits.
+
+I am aware of the ranges of VSWR, ρ, and RL. I opened an [issue](https://github.com/BradleyHo/ee140/issues/1) and I will commit changes after final exams. Also, I understand that ∞ is not a number. For all intents and purposes, ∞ represents a large number. If you're an EE major, you know how useful the concept of ∞ is.
 
 | Voltage Standing Wave Ratio (VSWR) | Reflection Coefficient (ρ = \|Γ\|) | Return Loss (RL) | Impedance Matching |
 | :---: | :---: | :---: | :---: |
