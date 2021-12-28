@@ -21,7 +21,7 @@
     |/                \|
     "                  "
     
-Various information compiled for EE 140 taught by [Dr. Raymond Kwok](https://www.sjsu.edu/people/raymond.kwok/) at SJSU.
+Various information compiled for EE 140 taught by [Dr. Raymond Kwok](https://www.linkedin.com/in/ray-kwok-60bb36) at [SJSU](https://www.sjsu.edu/people/raymond.kwok/).
 
 ## Transmission Line Calculator
 Find values of voltage standing wave ratio (VSWR), reflection coefficient (ρ), return loss (RL). Extreme cases were considered. Refer to the relationship table below. This CLI program is written in Python. A GUI version is being considered for Windows and GNU/Linux with more implemented features if time permits.
