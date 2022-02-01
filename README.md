@@ -23,6 +23,20 @@
     
 Hey Spartans! I'm Bradley, one of the EE 140 teaching assistants for the Spring 2022 semester taught by [Dr. Raymond Kwok](https://www.linkedin.com/in/ray-kwok-60bb36) at [SJSU](https://www.sjsu.edu/people/raymond.kwok/). For additional practice problems, visit Professor Kwok's EE 140 [YouTube](https://www.youtube.com/channel/UCHL7NY0OffEIV4KQPrEnP-g) channel with students' solutions to practice problems. The TA session weekly schedule is posted on Google Calendar. You can click [here](https://sjsu.instructure.com/courses/1472264/discussion_topics/4560351) to go to the announcement on SJSU Canvas LMS. If you can't make it to the office hour or the TA sessions, feel free to email us or DM us on Discord. We're here to help you succeed in this challenging course. Below is a simple transmission line calculator that I coded that may be beneficial to you. Other than that, this repository is a placeholder just in case I have more information to be compiled later.
 
+If you are still trying to add, contact the professor for an add code. Make sure your one.SJSU shows that you are enrolled. If you are but can't see the course materials for EE 140 on Canvas LMS, let us know. If you are trying to get a physical textbook, contact the professor ASAP so he can reach out to the print shop to ship them out ASAP. Below are just a few ways/tips to be successful in this class. You don't have to follow these to pass the class (not all students are properly prepared or are at the same level of understanding as one another) but feel free to read on.
+- Check the Announcements for important information from the professor and/or TAs
+- Follow the lectures, take photos or screenshots (in person or online, respectively)
+- If you are able to multitask, then feel free to copy down the notes that the same time but most people can't
+- Rewrite the notes a second time at least, if not more (if you have time)
+- Redo in-class examples
+- Go through the textbook examples and problems
+- Redo quizzes, homework problems, and exams. Try to understand why and how you get to the answers, not just memorize
+- Study alone first then form study groups and teach each other (if you're a solo kind of person, then follow your own method, you know what's best for you)
+- Watch EE 140 videos on Professor Kwok's YouTube channel
+- Get in touch if you need additional help: email, Canvas Discussions, Canvas message, Discord server, Discord DM (if you're shy), TA sessions (check weekly calendar), professor office hours (check course syllabus)
+
+Now, the most useful tool you need is a scientific calculator as the professor will/may not allow the usage of graphing calculators or programmable calculators. This may or may not change but I wouldn't chance it. In my semester, most students used the [Casio ClassWiz fx-991EX](https://amzn.to/3L1NjAA) calculator. This is a great calculator to help you with computations as well as having useful functions such as complex number conversions between the polar coordinate system and the Cartesian coordinate system (rectangular coordinate system). Only downside is that if the calculator is turned off, you won't have access to old calculations, i.e. the data are wiped from the RAM. If you prefer a calculator with memory, you can get the [TI-36X Pro](https://amzn.to/3ITZ1eI) (although it's a bit more expensive). One pro is that both scientific calculators are powered using the internal solar cells. I will post basic tutorials on how to use the Casio ClassWiz fx-991EX functions.
+
 > Fun fact: EE 140 used to split up into EE 140 and EE 142. Later, both courses merged into a single course, i.e. EE 140. If you're interested in these materials, consider registering for EE 172.
 
 ## Transmission Line Calculator
